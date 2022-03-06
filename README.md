@@ -1,2 +1,0 @@
-# HelloKotlin
-Lets learn kotlin!
